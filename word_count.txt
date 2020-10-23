@@ -1,0 +1,45 @@
+# Regarding the word coronaviru: 
+	Occurences: 
+	101986 / 1946685
+	Percentage: 
+	0.05238957509817973
+# Regarding the word covid: 
+	Occurences: 
+	18548 / 1946685
+	Percentage: 
+	0.00952799245897513
+# Regarding the word say: 
+	Occurences: 
+	13672 / 1946685
+	Percentage: 
+	0.007023221527879446
+# Regarding the word new: 
+	Occurences: 
+	13723 / 1946685
+	Percentage: 
+	0.0070494199112850825
+# Regarding the word case: 
+	Occurences: 
+	11249 / 1946685
+	Percentage: 
+	0.005778541469215615
+# Regarding the word lockdown: 
+	Occurences: 
+	10451 / 1946685
+	Percentage: 
+	0.005368613822986256
+# Regarding the word trump: 
+	Occurences: 
+	10168 / 1946685
+	Percentage: 
+	0.005223238479774591
+# Regarding the word death: 
+	Occurences: 
+	9320 / 1946685
+	Percentage: 
+	0.0047876261439318635
+# Regarding the word pandemic: 
+	Occurences: 
+	8017 / 1946685
+	Percentage: 
+	0.004118283132607484
